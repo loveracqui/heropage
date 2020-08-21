@@ -1,0 +1,50 @@
+--------------------------------------------
+Resources Credits : 
+--------------------------------------------
+
+Bootstrap :
+	Website URL : http://getbootstrap.com/
+
+HTML5 :
+	Website URL : https://github.com/aFarkas/html5shiv
+
+Google Fonts : 
+
+	Raleway Font:
+	Website URL : https://fonts.google.com/specimen/Raleway
+	License : SIL Open Font License, Version 1.1.
+	License URL : http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+	
+	Open Sans Font:
+	Website URL : https://fonts.google.com/specimen/Open+Sans
+	License : Apache License, Version 2.0
+	License URL : http://www.apache.org/licenses/LICENSE-2.0
+
+
+Additional Plugins:
+
+Slick SLider :
+	Website URL : http://kenwheeler.github.io/slick/
+
+Ajax Contact Form :
+	Website URL : https://github.com/matt-west/ajax-contact-form
+
+Font Awesome :
+	Website URL : http://fortawesome.github.io/Font-Awesome/
+
+Magnific Popup (Light Box) :
+	Website URL : http://dimsemenov.com/plugins/magnific-popup/
+
+Filterizr (Gallery) :
+	Website URL : http://yiotis.net/filterizr/
+
+Simple Animated Counter :
+	Website URL : https://codepen.io/dmcreis/pen/VLLYPo
+
+Circle Bars :
+	Website URL : https://github.com/itaditya/circlebars
+
+
+
+
+
